@@ -3,7 +3,7 @@
 * [Project Demo]
 * [Actual Reddit]
 
-[Project Demo]: https://aa-reddit-on-rails.herokuapp.com/
+[Project Demo]: https://aa-reddit-app.herokuapp.com/
 [Actual Reddit]: https://www.reddit.com
 
 ## Bonus I: Votes
