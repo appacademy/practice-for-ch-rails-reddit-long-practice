@@ -6,7 +6,7 @@
 [Project Demo]: https://aa-reddit-app.herokuapp.com/
 [Actual Reddit]: https://www.reddit.com
 
-## Learning Goals
+## Learning goals
 
 * Be able to write auth from scratch without looking at previous solutions
 * Know how to use a `before_action` to manage user access to resources
@@ -14,7 +14,7 @@
 * Know when to use regular associations and when to use join tables
 * Know how to avoid N+1 queries
 
-## Quick Review
+## Quick review
 
 This is the last Rails project before building Rails Lite yourself tomorrow.
 Take a few minutes to talk through the whole request/response cycle with your
